@@ -2,6 +2,7 @@
 layout: page
 title: education
 nav: true
+nav_order: 2
 ---
 
 
