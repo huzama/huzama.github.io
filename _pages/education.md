@@ -2,6 +2,7 @@
 layout: page
 title: education
 nav: true
+permalink: /education/
 display_categories: [school, certificates]
 nav_order: 2
 ---

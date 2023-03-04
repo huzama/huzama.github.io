@@ -1,6 +1,7 @@
 ---
 layout: page
 title: experience
+permalink: /experience/
 display_categories: [Work, Volunteer]
 nav: true
 nav_order: 3
