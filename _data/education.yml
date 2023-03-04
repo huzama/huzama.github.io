@@ -1,21 +1,28 @@
 school:
   - name: Korea Advanced Institute of Science and Technology (KAIST)
     Degree: PhD
-    Major: Computer Engineering
+    Major: Artificial Intelligence 
     Duration: 2022 - Now
+    icon: ../assets/img/kaist.jpg
 
   - name: Korea Advanced Institute of Science and Technology (KAIST)
     Degree: Master's of Science (MS)
-    Major: Computer Engineering
+    Major: Artificial Intelligence
     Duration: 2021 - 2022
+    icon: ../assets/img/kaist.jpg
 
   - name: National University of Sciences & Technology (NUST)
     Degree: Bachelor's of Engineering (BE)
     Major: Computer Engineering
     Duration: 2017 - 2021
+    icon: ../assets/img/nust.jpg
 
 certificates:
-  - name: Deep Learning
-    link: BE
+  - name: Natural Language Processing with Attention Models
+    issuer: DeepLearning.AI
+    date: Jan 2023
+    credentialID: HFM5U888KE5M
+    link: https://www.coursera.org/verify/HFM5U888KE5M
+    icon: ../assets/img/deeplearnig_ai.jpg
 
 

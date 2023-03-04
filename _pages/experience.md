@@ -8,10 +8,13 @@ nav_order: 3
 ---
 
 <div class="experience">
-  {%- for category in page.display_categories %}
-    <h2 class="category">{{ category }}</h2>
-    {% for repo in site.data.experience %}
-      <h3> {{ site.data.experience.work.Name }} </h3>
+    <h2 class="category">{{ page.display_categories[0] }}</h2>
+    {% for work in site.data.experience.work %}
+      {% include experience/work.html work=work %}
     {% endfor %}
-  {% endfor %}
+
+    <h2 class="category">{{ page.display_categories[1] }}</h2>
+    {% for volunteer in site.data.experience.volunteer %}
+      {% include experience/volunteer.html volunteer=volunteer %}
+    {% endfor %}
 </div>

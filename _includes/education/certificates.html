@@ -1,3 +1,7 @@
 <div class>
-    {{ include.certificates.name }}
+    <img src="{{include.certificates.icon}}">
+    <b>Name:         </b> {{ include.certificates.name }}      <br>
+    <b>Issuer:       </b> {{ include.certificates.issuer }}    <br>
+    <b>Issue Date:   </b> {{ include.certificates.date }}     <br>
+    <b>Credential ID:</b> <a href="{{include.certificates.link}}">{{ include.certificates.credentialID }} </a> <br><br>
 </div>

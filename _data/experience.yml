@@ -1,3 +1,17 @@
 work:
-  Name: 
-    - Risetech
+  - name: Korea Advanced Institute of Science and Technology (KAIST)
+    Degree: PhD
+    Major: Artificial Intelligence 
+    Duration: 2022 - Now
+    icon: ../assets/img/kaist.jpg
+
+
+volunteer:
+  - name: Natural Language Processing with Attention Models
+    issuer: DeepLearning.AI
+    date: Jan 2023
+    credentialID: HFM5U888KE5M
+    link: https://www.coursera.org/verify/HFM5U888KE5M
+    icon: ../assets/img/deeplearnig_ai.jpg
+
+
