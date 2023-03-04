@@ -9,10 +9,13 @@ nav_order: 2
 
 
 <div class="education">
-  {%- for category in page.display_categories %}
-    <h2 class="category">{{ category }}</h2>
-    {% for repo in site.data.education %}
-      <h3> {{ site.data.education.school.Name }} </h3>
+    <h2 class="category">{{ page.display_categories[0] }}</h2>
+    {% for school in site.data.education.school %}
+      {% include education/school.html school=school %}
     {% endfor %}
-  {% endfor %}
+
+    <h2 class="category">{{ page.display_categories[1] }}</h2>
+    {% for certificates in site.data.education.certificates %}
+      {% include education/certificates.html certificates=certificates %}
+    {% endfor %}
 </div>

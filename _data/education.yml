@@ -1,3 +1,21 @@
 school:
-  Name: 
-    - NUST
+  - name: Korea Advanced Institute of Science and Technology (KAIST)
+    Degree: PhD
+    Major: Computer Engineering
+    Duration: 2022 - Now
+
+  - name: Korea Advanced Institute of Science and Technology (KAIST)
+    Degree: Master's of Science (MS)
+    Major: Computer Engineering
+    Duration: 2021 - 2022
+
+  - name: National University of Sciences & Technology (NUST)
+    Degree: Bachelor's of Engineering (BE)
+    Major: Computer Engineering
+    Duration: 2017 - 2021
+
+certificates:
+  - name: Deep Learning
+    link: BE
+
+
