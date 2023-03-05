@@ -1,21 +1,21 @@
 school:
   - name: Korea Advanced Institute of Science and Technology (KAIST)
-    Degree: PhD
+    Degree: Doctor of Philosophy - PhD
     Major: Artificial Intelligence 
-    Duration: 2022 - Now
-    icon: ../assets/img/kaist.jpg
+    Duration: Aug. 2022 - Now
+    icon: ../assets/img/kaist.png
 
   - name: Korea Advanced Institute of Science and Technology (KAIST)
-    Degree: Master's of Science (MS)
+    Degree: Master of Science - MS
     Major: Artificial Intelligence
-    Duration: 2021 - 2022
-    icon: ../assets/img/kaist.jpg
+    Duration: Aug. 2021 - Aug. 2022
+    icon: ../assets/img/kaist.png
 
   - name: National University of Sciences & Technology (NUST)
-    Degree: Bachelor's of Engineering (BE)
+    Degree: Bachelor of Engineering - BE
     Major: Computer Engineering
-    Duration: 2017 - 2021
-    icon: ../assets/img/nust.jpg
+    Duration: Sep. 2017 - Jul. 2021
+    icon: ../assets/img/nust.png
 
 certificates:
   - name: Natural Language Processing with Attention Models

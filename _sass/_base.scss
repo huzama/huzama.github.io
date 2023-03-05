@@ -274,7 +274,7 @@ blockquote {
 
 // Footer
 footer.fixed-bottom {
-  background-color: var(--global-footer-bg-color);
+  background-color: #696969; //var(--global-footer-bg-color);
   font-size: 0.75rem;
   .container {
     color: var(--global-footer-text-color);
@@ -427,6 +427,16 @@ footer.sticky-bottom {
     text-align: right;
   }
 }
+.education_card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  display: flex;
+  align-items: center;
+  
+}
+.certificates_card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  
+}
 
 // experience
 
@@ -440,7 +450,16 @@ footer.sticky-bottom {
     text-align: right;
   }
 }
-
+.experience_card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  display: flex;
+  align-items: center;
+  
+}
+.volunteer_card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  
+}
 
 // Projects
 

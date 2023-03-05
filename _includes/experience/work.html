@@ -1,7 +1,18 @@
-<div class>
-    <img src="{{include.work.icon}}">
-    <b>Name:    </b> {{ include.work.name }}      <br>
-    <b>Degree:  </b> {{ include.work.Degree }}    <br>
-    <b>Major:   </b> {{ include.work.Major }}     <br>
-    <b>Duration:</b> {{ include.work.Duration }}  <br><br>
+<div>
+    <div class="experience_card">
+        <div>
+        <img src="{{include.work.icon}}" width="70" height="70">
+        </div>
+
+        <div>
+        <strong> {{ include.work.job }} </strong> 
+        <br>
+
+        {{ include.work.company }}
+        <br>
+
+        <p style="color: grey;">{{ include.work.Duration }} </p>
+        </div>
+    </div>
+    <br>
 </div>

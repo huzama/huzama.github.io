@@ -1,7 +1,18 @@
-<div class>
-    <img src="{{include.school.icon}}">
-    <b>Name:    </b> {{ include.school.name }}      <br>
-    <b>Degree:  </b> {{ include.school.Degree }}    <br>
-    <b>Major:   </b> {{ include.school.Major }}     <br>
-    <b>Duration:</b> {{ include.school.Duration }}  <br><br>
+<div>
+    <div class="education_card">
+        <div>
+        <img src="{{include.school.icon}}" width="70" height="70">
+        </div>
+
+        <div>
+        <strong> {{ include.school.name }} </strong> 
+        <br>
+
+        {{ include.school.Degree }},  {{ include.school.Major }} 
+        <br>
+
+        <p style="color: grey;">{{ include.school.Duration }} </p>
+        </div>
+    </div>
+    <br>
 </div>
