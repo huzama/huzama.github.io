@@ -22,7 +22,7 @@ social: true  # includes social icons at the bottom of the page
 
 <p> Currently, I am working in <a href="https://xfact.net/"> xfact</a> lab where I am being guided by two esteemed professors -  <a href='https://sites.google.com/a/kaist.edu/song-chong'>Song Chong</a> and <a href='https://jamesthorne.com/'> James Thorne</a>. My area of research is Natural Language Processing (NLP), and I specifically focus on the following topics:
 <ul>
-  <li> Continual Learning of Large Languege Models without thge use of further training</li>
+  <li> Continual Learning of Large Languege Models without the use of additional training</li>
   <li> Using Reinforcement Learning to generate better responce in Large Language Models </li>
   <li> Knowledge extraction and fact verification in Large Language Models</li>
   <li> Logic and Reasoning in Large Language Models</li>

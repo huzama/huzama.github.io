@@ -3,7 +3,7 @@ layout: page
 title: education
 nav: true
 permalink: /education/
-display_categories: [school, certificates]
+display_categories: [degrees, certificates]
 nav_order: 2
 ---
 
