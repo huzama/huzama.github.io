@@ -17,8 +17,17 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 <div class='info'>
-<h1> Bonjour! </h1>
-<p> I'm a PhD researcher in Artificial Intelligence, currently researching about Knowledge Representation in Large Language Models at the Korea Advance Institute of Science and Technology (KAIST). My Bachelor's degree in Computer Engineering from Pakistan's top-ranked university, National University of Sciences and Technology (NUST), provided a solid foundation for my academic pursuits. </p>
-<p> I am working in <a href="https://xfact.net/"> xfact</a> lab and I am being guided by two esteemed professors -  <a href='https://sites.google.com/a/kaist.edu/song-chong'>Song Chong</a> and <a href='https://jamesthorne.com/'> James Thorne</a>. </p>
+<h1> السَّلَامُ عَلَيْكُمْ </h1>
+<p> Hi, I'm a first year PhD scholar of Artificial Intelligence at the Korea Advance Institute of Science and Technology (KAIST). I graduated with a  Bachelor's degree in Computer Engineering from Pakistan's top-ranked university, National University of Sciences and Technology (NUST), which provided a solid foundation for my academic pursuits. </p>
+
+<p> Currently, I am working in <a href="https://xfact.net/"> xfact</a> lab where I am being guided by two esteemed professors -  <a href='https://sites.google.com/a/kaist.edu/song-chong'>Song Chong</a> and <a href='https://jamesthorne.com/'> James Thorne</a>. My area of research is Natural Language Processing (NLP), and I specifically focus on the following topics:
+<ul>
+  <li> Continual Learning of Large Languege Models without thge use of further training</li>
+  <li> Using Reinforcement Learning to generate better responce in Large Language Models </li>
+  <li> Knowledge extraction and fact verification in Large Language Models</li>
+  <li> Logic and Reasoning in Large Language Models</li>
+</ul>
+</p>
+
 <p> Thank you for visiting my website, and feel free to contact me if you have any questions or would like to learn more about my research. </p>
 </div>
