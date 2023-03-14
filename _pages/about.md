@@ -12,7 +12,7 @@ profile:
     Address: <p> Kim Jaechul AI Graduate School, Building 9,
     85 Hoegi-ro, Cheongnyangri-dong, Dongdaemun-gu, Seoul </p>
 
-news: false  # includes a list of news items
+news: True  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
@@ -29,5 +29,6 @@ social: true  # includes social icons at the bottom of the page
 </ul>
 </p>
 
-<p> Thank you for visiting my website, and feel free to contact me if you have any questions or would like to learn more about my research. </p>
+<p> Thank you for visiting my website! <br>
+If you wanna get lost in the cosmos and chat about the meaning of life and how everything came to be, hit me up! I'm kind of an optimistic nihilist. </p>
 </div>

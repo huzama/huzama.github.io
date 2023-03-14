@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Will add publications here
+description: Under Construction
 years: [2023]
 nav: true
 nav_order: 1
